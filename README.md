@@ -1,3 +1,6 @@
-INCLUDES: LYFT DATA CHALLENGE NOTEBOOKS, DATASETS, AND SUBSEQUENT DECISION MEMO. 
+Includes: 
+- Jupyter Notebook (tech used: pandas, seabown, matplotlib) 
+- Decision Memo 
+- DataSets 
 
 September 2019
